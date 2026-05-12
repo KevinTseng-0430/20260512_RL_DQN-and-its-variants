@@ -1,0 +1,5 @@
+action_dim: 4
+batch_size: 32
+gamma: 0.9
+lr: 0.001
+state_dim: 64
